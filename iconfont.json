@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1162",
+      "name": "可见",
+      "font_class": "kejian",
+      "unicode": "f00e9",
+      "unicode_decimal": 983273
+    },
+    {
+      "icon_id": "200967",
+      "name": "3.1点赞",
+      "font_class": "31dianzan",
+      "unicode": "f01b8",
+      "unicode_decimal": 983480
+    },
+    {
+      "icon_id": "2570099",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    }
+  ]
+}
